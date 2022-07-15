@@ -7,5 +7,4 @@ You will need
 1. Hardhat to fork the mainnet at a certain block number
 2. Alchemy API Key to access archived Ethereum node
 
-Note : This is for my learning. PoC code is given in the article. Further, I will attempt to write a PoC by myself encoding a Flash Loan attack logic.
-
+Note : This is for learning how DeFi attacks can be recreated. PoC code is given in the linked article.
